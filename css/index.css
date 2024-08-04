@@ -1,0 +1,13 @@
+#yes, #no{
+    color: red;
+    font-size: 50px;
+    display: none;
+}
+button{
+    height: 50px;
+    width: 50px;
+}
+#yes{
+    position: absolute;
+    top:-1%;
+}
