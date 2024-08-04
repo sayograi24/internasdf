@@ -1,6 +1,6 @@
 function abc(){
     document.getElementById('hello').innerText = "hello";
-    document.getElementById('yes').innerText= "Samit";
+    document.getElementById('yes').innerText= "yes";
     document.getElementById('no').innerText= "no";
 }
 function yes(){
@@ -12,4 +12,7 @@ function no(){
     document.getElementById('hello').innerText="adsf"
     document.getElementById('yes').innerText="yes"
     document.getElementById('no').innerText="NOOOOO"
+}
+function cr(){
+    document.getElementById('crmug').innerText="crmug";
 }
